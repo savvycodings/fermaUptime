@@ -1,0 +1,56 @@
+# Change these first
+ owner: savvycodings
+ repo: fermaUptime
+ 
+ sites:
+   - name: Fermah Website
+     url: https://www.fermah.xyz
+     assignees:
+       - savvycodings
+   - name: Fermah Docs
+     url: https://docs.fermah.xyz
+     assignees:
+       - savvycodings
+   - name: Fermah Blog
+     url: https://www.fermah.xyz/blog
+     assignees:
+       - savvycodings
+   - name: Fermah Testnet
+     url: https://www.fermah.xyz/testnet
+     assignees:
+       - savvycodings
+   - name: Fermah FailTestnet
+     url: https://failtestnet.fermah.xyz
+     assignees:
+       - savvycodings
+ 
+ status-website:
+   baseUrl: /fermaUptime   # Required for GitHub Pages
+   logo: assets/fermaLogo.svg
+   faviconSvg: assets/fermaLogo.svg
+   introTitle: Fermah Uptime
+   introMessage: Real-time status of Fermah services
+   theme: dark
+   navbar:
+     - title: Status
+       href: /fermaUptime
+     - title: Website
+       href: https://www.fermah.xyz
+     - title: GitHub
+       href: https://github.com/savvycodings/fermahStatus
+   # Remove the assets baseUrl since we're using GitHub Actions
+   assets: {}
+ 
+ i18n:
+   footer: This status page is powered by [Fermah](https://www.fermah.xyz)
+ 
+ # Commit settings
+ commit:
+   authorName: "savvycodings"
+   authorEmail: "knoome@proton.me"
+   PAT: ${{ secrets.GH_PAT }}
+ 
+ # Commit messages
+ commitMessages:
+   commitAuthorName: "savvycodings"
+   commitAuthorEmail: "knoome@proton.me"
