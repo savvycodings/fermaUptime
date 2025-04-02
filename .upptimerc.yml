@@ -29,8 +29,7 @@
    name: Fermah Uptime
    logoUrl: https://raw.githubusercontent.com/savvycodings/fermaUptime/master/assets/fermaLogo.svg
    faviconSvg: https://raw.githubusercontent.com/savvycodings/fermaUptime/master/assets/fermaLogo.svg
-   introTitle: Fermah Uptime
-   introMessage: Real-time status of Fermah services
+   introTitle: Real-time status of Fermah services
    theme: dark
    navbar:
      - title: Status
