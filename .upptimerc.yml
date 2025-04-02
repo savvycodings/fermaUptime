@@ -27,7 +27,7 @@
  status-website:
    baseUrl: /fermaUptime   # Required for GitHub Pages
    name: Fermah Uptime
-   logoUrl: https://raw.githubusercontent.com/savvycodings/fermaUptime/master/assets/fermaLogo.svg
+   logoUrl: https://raw.githubusercontent.com/savvycodings/fermaUptime/master/assets/Logo.png
    faviconSvg: https://raw.githubusercontent.com/savvycodings/fermaUptime/master/assets/fermaLogo.svg
    introTitle: Real-time status of Fermah services
    theme: dark
