@@ -26,17 +26,13 @@
  
  status-website:
    baseUrl: /fermaUptime   # Required for GitHub Pages
-   name: Fermah Uptime
+   name: Uptime
    logoUrl: https://raw.githubusercontent.com/savvycodings/fermaUptime/master/assets/Logo.png
    faviconSvg: https://raw.githubusercontent.com/savvycodings/fermaUptime/master/assets/fermaLogo.svg
    introTitle: Real-time status of Fermah services
    theme: dark
    navbar:
-     - title: Status
-       href: /fermaUptime
-     - title: Website
-       href: https://www.fermah.xyz
-     - title: GitHub
+     - title: Repository
        href: https://github.com/savvycodings/fermahStatus
    # Remove the assets baseUrl since we're using GitHub Actions
    assets: {}
