@@ -2,7 +2,7 @@
 
 # [📈 Live Status](https://savvycodings.github.io/fermaUptime): <!--live status--> **🟧 Partial outage**
 
-This repository contains the Uptime monitor and status page for [Fermah](https://www.fermah.xyz)
+This repository contains the uptime monitor and status page for [Fermah](https://www.fermah.xyz)
 
 [![Uptime CI](https://github.com/savvycodings/fermaUptime/workflows/Uptime%20CI/badge.svg)](https://github.com/savvycodings/fermaUptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/savvycodings/fermaUptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/savvycodings/fermaUptime/actions?query=workflow%3A%22Response+Time+CI%22)
