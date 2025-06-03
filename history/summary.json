@@ -6,7 +6,7 @@
     "slug": "fermah-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 339,
     "timeMonth": 287,
     "timeYear": 284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-03": 0
+    }
   },
   {
     "name": "Fermah Docs",
@@ -40,18 +42,20 @@
     "url": "https://www.fermah.xyz/blog",
     "icon": "https://icons.duckduckgo.com/ip3/www.fermah.xyz.ico",
     "slug": "fermah-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 48,
-    "timeDay": 102,
-    "timeWeek": 56,
-    "timeMonth": 41,
-    "timeYear": 48,
-    "dailyMinutesDown": {}
+    "time": 163,
+    "timeDay": 3395,
+    "timeWeek": 885,
+    "timeMonth": 344,
+    "timeYear": 163,
+    "dailyMinutesDown": {
+      "2025-06-03": 0
+    }
   },
   {
     "name": "Fermah Testnet",
