@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 383,
-    "timeDay": 421,
-    "timeWeek": 322,
-    "timeMonth": 329,
-    "timeYear": 383,
+    "time": 388,
+    "timeDay": 781,
+    "timeWeek": 406,
+    "timeMonth": 348,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2025-06-03": 137
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.fermah.xyz.ico",
     "slug": "fermah-docs",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 239,
-    "timeDay": 264,
-    "timeWeek": 268,
-    "timeMonth": 272,
-    "timeYear": 239,
-    "dailyMinutesDown": {
-      "2025-07-07": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 243,
+    "timeDay": 338,
+    "timeWeek": 306,
+    "timeMonth": 285,
+    "timeYear": 243,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fermah Blog",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 124,
-    "timeDay": 53,
-    "timeWeek": 70,
-    "timeMonth": 63,
-    "timeYear": 124,
+    "time": 125,
+    "timeDay": 188,
+    "timeWeek": 90,
+    "timeMonth": 68,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2025-06-03": 137
     }
@@ -71,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 51,
-    "timeWeek": 48,
-    "timeMonth": 45,
+    "timeDay": 93,
+    "timeWeek": 55,
+    "timeMonth": 47,
     "timeYear": 41,
     "dailyMinutesDown": {}
   },
