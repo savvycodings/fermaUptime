@@ -24,19 +24,19 @@
     "url": "https://docs.fermah.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/docs.fermah.xyz.ico",
     "slug": "fermah-docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 323,
-    "timeWeek": 257,
-    "timeMonth": 303,
-    "timeYear": 249,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 248,
+    "timeDay": 277,
+    "timeWeek": 249,
+    "timeMonth": 300,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 15
     }
   },
   {
