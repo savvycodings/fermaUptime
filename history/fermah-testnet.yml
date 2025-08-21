@@ -1,7 +1,7 @@
 url: https://www.fermah.xyz/testnet
-status: down
-code: 504
-responseTime: 1009
-lastUpdated: 2025-08-21T17:58:00.322Z
+status: up
+code: 200
+responseTime: 79
+lastUpdated: 2025-08-21T18:11:25.678Z
 startTime: 2025-04-02T15:40:11.746Z
 generator: Upptime <https://github.com/upptime/upptime>
