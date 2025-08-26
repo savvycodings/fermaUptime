@@ -4,11 +4,11 @@
     "url": "https://www.fermah.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.fermah.xyz.ico",
     "slug": "fermah-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
     "time": 423,
     "timeDay": 3939,
@@ -16,6 +16,7 @@
     "timeMonth": 591,
     "timeYear": 423,
     "dailyMinutesDown": {
+      "2025-08-26": 1,
       "2025-08-21": 23,
       "2025-06-03": 137
     }
@@ -45,9 +46,9 @@
     "url": "https://www.fermah.xyz/blog",
     "icon": "https://icons.duckduckgo.com/ip3/www.fermah.xyz.ico",
     "slug": "fermah-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
@@ -57,6 +58,7 @@
     "timeMonth": 124,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-08-21": 23,
       "2025-06-03": 137
     }
