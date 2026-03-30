@@ -36,7 +36,7 @@
     "time": 298,
     "timeDay": 133,
     "timeWeek": 267,
-    "timeMonth": 239,
+    "timeMonth": 243,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2026-01-13": 18,
@@ -72,18 +72,19 @@
     "url": "https://www.fermah.xyz/testnet",
     "icon": "https://icons.duckduckgo.com/ip3/www.fermah.xyz.ico",
     "slug": "fermah-testnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 63,
-    "timeDay": 18,
-    "timeWeek": 28,
-    "timeMonth": 30,
+    "timeDay": 32,
+    "timeWeek": 30,
+    "timeMonth": 31,
     "timeYear": 63,
     "dailyMinutesDown": {
+      "2026-03-30": 0,
       "2025-12-05": 29,
       "2025-08-21": 23
     }
