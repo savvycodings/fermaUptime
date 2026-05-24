@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 364,
-    "timeDay": 1246,
-    "timeWeek": 629,
-    "timeMonth": 627,
-    "timeYear": 374,
+    "time": 366,
+    "timeDay": 1269,
+    "timeWeek": 700,
+    "timeMonth": 644,
+    "timeYear": 377,
     "dailyMinutesDown": {
-      "2025-12-05": 29,
-      "2025-11-15": 29,
+      "2025-06-03": 137,
       "2025-08-21": 23,
-      "2025-06-03": 137
+      "2025-11-15": 29,
+      "2025-12-05": 29
     }
   },
   {
@@ -33,16 +33,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 275,
-    "timeDay": 143,
-    "timeWeek": 92,
+    "time": 274,
+    "timeDay": 71,
+    "timeWeek": 93,
     "timeMonth": 98,
-    "timeYear": 282,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2026-01-13": 18,
-      "2026-01-04": 17,
+      "2025-07-22": 15,
       "2025-12-05": 29,
-      "2025-07-22": 15
+      "2026-01-04": 17,
+      "2026-01-13": 18
     }
   },
   {
@@ -56,15 +56,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 106,
-    "timeDay": 798,
-    "timeWeek": 480,
-    "timeMonth": 300,
-    "timeYear": 113,
+    "time": 108,
+    "timeDay": 1053,
+    "timeWeek": 540,
+    "timeMonth": 333,
+    "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-12-05": 29,
+      "2025-06-03": 137,
       "2025-08-21": 23,
-      "2025-06-03": 137
+      "2025-12-05": 29
     }
   },
   {
@@ -73,18 +73,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fermah.xyz.ico",
     "slug": "fermah-testnet",
     "status": "down",
-    "uptime": "87.20%",
+    "uptime": "86.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.43%",
+    "uptimeYear": "85.15%",
     "time": 63,
-    "timeDay": 89,
-    "timeWeek": 121,
-    "timeMonth": 77,
+    "timeDay": 125,
+    "timeWeek": 113,
+    "timeMonth": 81,
     "timeYear": 66,
     "dailyMinutesDown": {
-      "2026-05-23": 65,
+      "2025-08-21": 23,
+      "2025-12-05": 29,
+      "2026-05-24": 69,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -138,9 +141,7 @@
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
-      "2026-03-30": 156,
-      "2025-12-05": 29,
-      "2025-08-21": 23
+      "2026-03-30": 156
     }
   },
   {
